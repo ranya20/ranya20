@@ -33,19 +33,19 @@ FastAPI · REST APIs · Docker · Kubernetes · n8n · Linux
 
 These projects are currently available on my GitHub.
 
-### DATALENS — Intelligent Business Management & BI System
+### [DATALENS — Intelligent Business Management & BI System](https://github.com/ranya20/datalens-business-intelligence-system)
 
 End-to-end business management and analytics platform combining **Oracle, FastAPI, React, Business Intelligence, automated business logic, KPI monitoring, alerts, and sales prediction**.
 
 The project connects transactional data, backend services, analytics, and predictive capabilities within a unified architecture.
 
-### Real-Time Cryptocurrency Analytics & Prediction System
+### [Real-Time Cryptocurrency Analytics & Prediction System](https://github.com/ranya20/crypto-real-time-prediction-system)
 
 Distributed real-time data pipeline designed for cryptocurrency analytics and forecasting using **Kafka, Spark Streaming, Cassandra, and Machine Learning / Deep Learning**.
 
 The system handles continuous data ingestion, distributed processing, storage, real-time analytics, and price prediction.
 
-### ASL Sign Language Recognition System
+### [ASL Sign Language Recognition System](https://github.com/ranya20/asl-sign-language-recognition-system)
 
 Real-time sign language recognition application combining **Deep Learning, MediaPipe, Computer Vision, and FastAPI**.
 
